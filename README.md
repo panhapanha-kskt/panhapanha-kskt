@@ -17,3 +17,14 @@ My name is **Tith Sopanha**, I'm a cybersecurity student who has fully committed
     <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-0A2540?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Blue Team Labs Online"/>
   </a>
 </p>
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Wazuh-3AB6E6?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/TheHive-FF5000?style=for-the-badge&logo=thehive&logoColor=white" alt="TheHive"/>
+  <img src="https://img.shields.io/badge/Cortex-000000?style=for-the-badge&logo=cortex&logoColor=white" alt="Cortex"/>
+  <img src="https://img.shields.io/badge/MISP-002B5C?style=for-the-badge&logo=misp&logoColor=white" alt="MISP"/>
+</p>
