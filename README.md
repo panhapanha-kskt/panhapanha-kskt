@@ -17,9 +17,3 @@ My name is **Tith Sopanha**, I'm a cybersecurity student who has fully committed
     <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-0A2540?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Blue Team Labs Online"/>
   </a>
 </p>
-
-| Platform | Link |
-|---|---|
-| 🔒 Hack The Box | [app.hackthebox.com/public/users/2363883](https://app.hackthebox.com/public/users/2363883) |
-| 🔒 TryHackMe | [tryhackme.com/p/W4rD3nX](https://tryhackme.com/p/W4rD3nX?clientRouterFallback=true) |
-| 🛡️ Blue Team Labs Online | [blueteamlabs.online/public/user/90a259324f6581175b86c9](https://blueteamlabs.online/public/user/90a259324f6581175b86c9) |
