@@ -4,8 +4,6 @@
 
 # Tith Sopanha
 
-### Cybersecurity Student · SOC Automation · Offensive & Defensive Security
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Breaking+things+to+learn+how+to+defend+them;learn+to+build+automation+pipelines;HTB+%7C+THM+%7C+BTLO+%7C;Always+proactive" alt="Typing SVG" />
 
 </div>
