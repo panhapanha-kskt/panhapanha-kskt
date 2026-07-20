@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="90" />
+<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Breaking+things+to+learn+how+to+defend+them;Building+automation;HTB+%7C+THM+%7C+BTLO+%7C;Always+proactive><" alt="Typing SVG" />
 </div>
