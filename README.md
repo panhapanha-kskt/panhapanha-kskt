@@ -8,8 +8,6 @@
 
 </div>
 
-<br>
-
 ## 👋 About Me
 
 Security isn't just a career choice for me — it's a discipline I build every single day. I'm currently deep in **SOC automation** and sharpening skills through **HTB**, **THM**, **BTLO**, and various CTFs.
